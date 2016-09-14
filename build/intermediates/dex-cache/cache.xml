@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/truecrypt11/QuyetDVDownload/SampleCustomTransition/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="873bd9d2a638d823afeea59f6472077b2ad4c78a">
+        <dex dex="/media/truecrypt11/QuyetDVDownload/SampleCustomTransition/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a3d3cc52dc1d3d33b547782132c66df3349ee924/classes.dex" />
+    </item>
+    <item
+        jar="/media/truecrypt11/QuyetDVDownload/SampleCustomTransition/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/media/truecrypt11/QuyetDVDownload/SampleCustomTransition/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_dc5b3c87d0e11c8eeccb26681b30c22122efe66a/classes.dex" />
+    </item>
+    <item
+        jar="/media/truecrypt11/QuyetDVDownload/SampleCustomTransition/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/media/truecrypt11/QuyetDVDownload/SampleCustomTransition/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.3.0_f03cc51548b4ae2b074c8977d79181a6ac2d98a1/classes.dex" />
+    </item>
+    <item
+        jar="/media/truecrypt11/QuyetDVDownload/SampleCustomTransition/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/media/truecrypt11/QuyetDVDownload/SampleCustomTransition/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_ef0da02e3fccdc0d5e9cb890867057cfec5e7f9b/classes.dex" />
+    </item>
+    <item
+        jar="/media/truecrypt11/QuyetDVDownload/SampleCustomTransition/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/media/truecrypt11/QuyetDVDownload/SampleCustomTransition/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_85bcf08bb11062eb9a32a24f757be32ac29ff22b/classes.dex" />
+    </item>
+    <item
+        jar="/media/truecrypt11/QuyetDVDownload/SampleCustomTransition/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1eface0dec96fdd837de15a90c044367e9a1e449">
+        <dex dex="/media/truecrypt11/QuyetDVDownload/SampleCustomTransition/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2c13fcd84d92495d9156a08d209c39768d1647d1/classes.dex" />
+    </item>
+    <item
+        jar="/home/quyetdv/Development/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/media/truecrypt11/QuyetDVDownload/SampleCustomTransition/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_bffb59b9727c0bc2d93fd52f2a8cc27d892e4c49/classes.dex" />
+    </item>
+    <item
+        jar="/media/truecrypt11/QuyetDVDownload/SampleCustomTransition/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/media/truecrypt11/QuyetDVDownload/SampleCustomTransition/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_888869807d7e567d3a60bf83372ffc95e8b9a690/classes.dex" />
+    </item>
+
+</items>
